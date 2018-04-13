@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mortbay/jetty/jetty-parent/7/jetty-parent-7.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jetty-parent-7.pom</name>
+  <created>1511945671541</created>
+  <lastModified>1223404020000</lastModified>
+  <size>13310</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945671546</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>2d03267b068d93df4076ec73b41106cd</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>070ed3160bc4b0ca224b76f828e74e27a133d08e</original>
+          <actual>070ed3160bc4b0ca224b76f828e74e27a133d08e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

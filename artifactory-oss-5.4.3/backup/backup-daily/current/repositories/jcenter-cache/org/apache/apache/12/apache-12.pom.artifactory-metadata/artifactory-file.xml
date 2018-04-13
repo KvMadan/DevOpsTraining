@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/apache/12/apache-12.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>apache-12.pom</name>
+  <created>1512124543729</created>
+  <lastModified>1351807065000</lastModified>
+  <size>15519</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512124543742</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>00770985adafb060e53416bcb5b1830c</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>83cde2062826b10b5cd61aa16035d889f13687fc</original>
+          <actual>83cde2062826b10b5cd61aa16035d889f13687fc</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

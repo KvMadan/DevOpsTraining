@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/sonatype/oss/oss-parent/7/oss-parent-7.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>oss-parent-7.pom</name>
+  <created>1511945649953</created>
+  <lastModified>1299501768000</lastModified>
+  <size>4824</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945649965</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>3e418cf7f2607bf359e6c514a992cb38</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>46b8a785b60a2767095b8611613b58577e96d4c9</original>
+          <actual>46b8a785b60a2767095b8611613b58577e96d4c9</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

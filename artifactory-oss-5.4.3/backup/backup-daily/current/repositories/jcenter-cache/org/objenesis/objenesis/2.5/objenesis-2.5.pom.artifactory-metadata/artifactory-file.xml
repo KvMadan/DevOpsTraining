@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/objenesis/objenesis/2.5/objenesis-2.5.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>objenesis-2.5.pom</name>
+  <created>1522059326919</created>
+  <lastModified>1484281737000</lastModified>
+  <size>2783</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059326928</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>1e5351a5a5dbaafe999a378a79f262f2</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>74fc9a971ce888eb1d2f1f68ba78c237d2ac38f1</original>
+          <actual>74fc9a971ce888eb1d2f1f68ba78c237d2ac38f1</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

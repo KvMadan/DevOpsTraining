@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>javax/servlet/jsp</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>jsp</name>
+  <created>1512901945054</created>
+  <lastModified>1512901945054</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512901945054</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

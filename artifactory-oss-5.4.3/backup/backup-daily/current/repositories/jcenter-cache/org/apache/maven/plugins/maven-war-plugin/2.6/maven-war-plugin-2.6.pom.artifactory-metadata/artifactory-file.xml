@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/plugins/maven-war-plugin/2.6/maven-war-plugin-2.6.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-war-plugin-2.6.pom</name>
+  <created>1512902094130</created>
+  <lastModified>1420747380000</lastModified>
+  <size>8225</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512902094174</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>8640459c11ea73ccd8e649fd61d27615</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>341bd5457ebed0dc3b62c2d6b2b48e1bf7a2e133</original>
+          <actual>341bd5457ebed0dc3b62c2d6b2b48e1bf7a2e133</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

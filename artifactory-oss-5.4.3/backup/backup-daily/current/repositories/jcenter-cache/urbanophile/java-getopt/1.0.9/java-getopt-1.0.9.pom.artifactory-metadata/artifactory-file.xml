@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>urbanophile/java-getopt/1.0.9/java-getopt-1.0.9.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>java-getopt-1.0.9.pom</name>
+  <created>1511945691367</created>
+  <lastModified>1220183128000</lastModified>
+  <size>157</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945691378</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d91bef0957c774df35aa9b17ac44ef45</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>1312ab02051c5ec3303d2a01802b0352339bef28</original>
+          <actual>1312ab02051c5ec3303d2a01802b0352339bef28</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

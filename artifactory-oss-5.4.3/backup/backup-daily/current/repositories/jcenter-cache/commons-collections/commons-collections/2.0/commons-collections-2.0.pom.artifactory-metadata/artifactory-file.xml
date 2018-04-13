@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-collections/commons-collections/2.0/commons-collections-2.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-collections-2.0.pom</name>
+  <created>1511945744806</created>
+  <lastModified>1220183128000</lastModified>
+  <size>171</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945744811</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>0e6eb8c1a83fc92558cc3ffb6a2c00a0</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>b0d78d06e725d7f8176256eaeceb9d5b3f0a7bca</original>
+          <actual>b0d78d06e725d7f8176256eaeceb9d5b3f0a7bca</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

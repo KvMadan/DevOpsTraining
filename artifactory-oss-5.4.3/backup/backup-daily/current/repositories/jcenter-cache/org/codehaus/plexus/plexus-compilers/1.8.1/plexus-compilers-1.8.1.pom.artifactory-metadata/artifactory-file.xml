@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-compilers-1.8.1.pom</name>
+  <created>1511945506060</created>
+  <lastModified>1283105818000</lastModified>
+  <size>1326</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945506066</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>f6a4bdc79a7fa2cf14db632bd0dd6e77</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>65001cebff0f740381357198dbe15258f751ef55</original>
+          <actual>65001cebff0f740381357198dbe15258f751ef55</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

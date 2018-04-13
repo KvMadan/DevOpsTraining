@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>aopalliance/aopalliance</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>aopalliance</name>
+  <created>1511945289624</created>
+  <lastModified>1511945289624</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945289624</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/commons/commons-compress/1.9/commons-compress-1.9.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-compress-1.9.jar</name>
+  <created>1512904733572</created>
+  <lastModified>1412571720000</lastModified>
+  <size>378217</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904733583</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>6c9ce8534b9e4c17e5dea7a97425245c</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>cc18955ff1e36d5abd39a14bfe82b19154330a34</original>
+          <actual>cc18955ff1e36d5abd39a14bfe82b19154330a34</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

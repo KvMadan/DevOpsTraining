@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>xmlpull</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>xmlpull</name>
+  <created>1512904724752</created>
+  <lastModified>1512904724752</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904724752</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

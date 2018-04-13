@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-validator/commons-validator/1.2.0/commons-validator-1.2.0.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-validator-1.2.0.jar</name>
+  <created>1511945827586</created>
+  <lastModified>1220183111000</lastModified>
+  <size>91113</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945827590</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>9fce68eba660211681217f0b119041c5</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>13dcebc00d206605bea72f6191b80370eb3ca805</original>
+          <actual>13dcebc00d206605bea72f6191b80370eb3ca805</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-interactivity-api-1.0-alpha-4.jar</name>
+  <created>1511945484295</created>
+  <lastModified>1220183271000</lastModified>
+  <size>13407</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945484300</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>c8ce4cfd3b7b6419c00dcb780a6eb603</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>0a8f1178664a5457eef3f4531eb62f9505e1295f</original>
+          <actual>0a8f1178664a5457eef3f4531eb62f9505e1295f</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

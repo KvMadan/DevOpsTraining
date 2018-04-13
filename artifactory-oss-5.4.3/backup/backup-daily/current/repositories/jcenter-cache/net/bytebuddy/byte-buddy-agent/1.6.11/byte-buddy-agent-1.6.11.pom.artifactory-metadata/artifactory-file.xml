@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>byte-buddy-agent-1.6.11.pom</name>
+  <created>1522059326245</created>
+  <lastModified>1489342620000</lastModified>
+  <size>4496</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059326253</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>556ae9077bd54128da85f582975accc1</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>f738574b3d5bb4d8b11687d1ff39e4eb4ef59c8c</original>
+          <actual>f738574b3d5bb4d8b11687d1ff39e4eb4ef59c8c</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

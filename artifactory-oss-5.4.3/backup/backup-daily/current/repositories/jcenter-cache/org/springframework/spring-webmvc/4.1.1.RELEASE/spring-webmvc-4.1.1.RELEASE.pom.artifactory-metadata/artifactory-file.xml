@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>spring-webmvc-4.1.1.RELEASE.pom</name>
+  <created>1511945300886</created>
+  <lastModified>1412167666000</lastModified>
+  <size>11479</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945300900</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>f8615fe7f0044b2af08ca3915cc281c3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>d7942845e285377409b476ab8befb9fb0d9b6f3a</original>
+          <actual>d7942845e285377409b476ab8befb9fb0d9b6f3a</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

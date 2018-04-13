@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>com/thoughtworks/xstream/xstream/1.4.4</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.4.4</name>
+  <created>1512904722402</created>
+  <lastModified>1512904722402</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904722402</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

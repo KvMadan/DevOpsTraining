@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/ant/ant-junit/1.8.3/ant-junit-1.8.3.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>ant-junit-1.8.3.jar</name>
+  <created>1511945809262</created>
+  <lastModified>1330236474000</lastModified>
+  <size>108142</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945809266</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>372f40b93f9adc0efc1ef4b379ced0fe</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>09f77eec4e103241602fb0cdd97b3ec3237e0bd9</original>
+          <actual>09f77eec4e103241602fb0cdd97b3ec3237e0bd9</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/shared/maven-invoker/2.0.11/maven-invoker-2.0.11.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-invoker-2.0.11.pom</name>
+  <created>1511945797595</created>
+  <lastModified>1253455769000</lastModified>
+  <size>5074</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945797599</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>9b4cdb6aa1eb81b3f29159bbd8ae9cd1</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c4a3df6dbe91d3a4303c77cd0ae6f77dc62f357b</original>
+          <actual>c4a3df6dbe91d3a4303c77cd0ae6f77dc62f357b</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

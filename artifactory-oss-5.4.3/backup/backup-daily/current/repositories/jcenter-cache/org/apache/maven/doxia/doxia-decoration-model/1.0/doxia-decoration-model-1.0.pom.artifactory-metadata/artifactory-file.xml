@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>doxia-decoration-model-1.0.pom</name>
+  <created>1511945790523</created>
+  <lastModified>1235489308000</lastModified>
+  <size>3154</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945790530</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>430d72b303608d1afafc6c331eb1ae8e</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>ce88deb4d18e5ecd4b23bb3e4c60b6bd842bb27f</original>
+          <actual>ce88deb4d18e5ecd4b23bb3e4c60b6bd842bb27f</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

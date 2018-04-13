@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-beanutils-1.7.0.pom</name>
+  <created>1511945741428</created>
+  <lastModified>1220183165000</lastModified>
+  <size>357</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945741433</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>66c24ff4a884af14401a29aeea6d6dd9</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>19eca029edacc1be30030faf43ea6acb30556d1a</original>
+          <actual>19eca029edacc1be30030faf43ea6acb30556d1a</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

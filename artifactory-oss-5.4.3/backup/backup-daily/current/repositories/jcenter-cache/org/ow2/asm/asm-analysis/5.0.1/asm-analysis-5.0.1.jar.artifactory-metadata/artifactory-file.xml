@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/ow2/asm/asm-analysis/5.0.1/asm-analysis-5.0.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>asm-analysis-5.0.1.jar</name>
+  <created>1511945802057</created>
+  <lastModified>1395570000000</lastModified>
+  <size>20445</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945802061</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>c51c48f3e4748189759869f3ea13e9a4</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>e286fbee48efacb4e7c175f7948d9d8b2ab52352</original>
+          <actual>e286fbee48efacb4e7c175f7948d9d8b2ab52352</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

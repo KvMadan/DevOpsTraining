@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/velocity/velocity/1.5/velocity-1.5.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>velocity-1.5.pom</name>
+  <created>1511945788561</created>
+  <lastModified>1220183179000</lastModified>
+  <size>7765</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945788567</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>45aa33919142783c54fd21f15b191ca3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>106262b58f0f2b44cc0dbb3d0fa77105f28f5e38</original>
+          <actual>106262b58f0f2b44cc0dbb3d0fa77105f28f5e38</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

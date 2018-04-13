@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-digester/commons-digester/1.6</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.6</name>
+  <created>1511945742779</created>
+  <lastModified>1511945742779</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945742779</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

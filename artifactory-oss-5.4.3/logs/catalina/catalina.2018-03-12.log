@@ -1,0 +1,14 @@
+12-Mar-2018 22:42:34.399 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+12-Mar-2018 22:42:34.438 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Mar-2018 22:42:34.445 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8019"]
+12-Mar-2018 22:42:34.449 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Mar-2018 22:42:34.461 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+12-Mar-2018 22:42:34.462 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.41
+12-Mar-2018 22:42:34.491 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor /home/devops/Downloads/artifactory-oss-5.4.3/tomcat/conf/Catalina/localhost/access.xml
+12-Mar-2018 22:42:34.491 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor /home/devops/Downloads/artifactory-oss-5.4.3/tomcat/conf/Catalina/localhost/artifactory.xml
+12-Mar-2018 22:42:40.309 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor /home/devops/Downloads/artifactory-oss-5.4.3/tomcat/conf/Catalina/localhost/artifactory.xml has finished in 5,816 ms
+12-Mar-2018 22:42:56.899 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor /home/devops/Downloads/artifactory-oss-5.4.3/tomcat/conf/Catalina/localhost/access.xml has finished in 22,408 ms
+12-Mar-2018 22:42:56.903 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/devops/Downloads/artifactory-oss-5.4.3/tomcat/webapps/ROOT
+12-Mar-2018 22:42:56.931 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/devops/Downloads/artifactory-oss-5.4.3/tomcat/webapps/ROOT has finished in 28 ms
+12-Mar-2018 22:42:56.939 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+12-Mar-2018 22:42:56.953 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8019"]

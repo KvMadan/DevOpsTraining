@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/surefire-grouper/2.19.1/surefire-grouper-2.19.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>surefire-grouper-2.19.1.pom</name>
+  <created>1511945577072</created>
+  <lastModified>1451849205000</lastModified>
+  <size>2628</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945577079</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>6c0c6d6704eb8d35b7a9164a0f92cde0</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>f16d85d3c19a6920b089dac231268586a59a32ff</original>
+          <actual>f16d85d3c19a6920b089dac231268586a59a32ff</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

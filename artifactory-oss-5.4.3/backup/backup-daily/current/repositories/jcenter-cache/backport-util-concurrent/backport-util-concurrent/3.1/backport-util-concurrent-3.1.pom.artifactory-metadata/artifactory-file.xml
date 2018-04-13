@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>backport-util-concurrent-3.1.pom</name>
+  <created>1511945528062</created>
+  <lastModified>1220183139000</lastModified>
+  <size>880</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945528067</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>3e6ca2836202605c5b79665ec185676d</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>24aa8f29c14d1c63225caa6ad5328f1f7a2497a8</original>
+          <actual>24aa8f29c14d1c63225caa6ad5328f1f7a2497a8</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

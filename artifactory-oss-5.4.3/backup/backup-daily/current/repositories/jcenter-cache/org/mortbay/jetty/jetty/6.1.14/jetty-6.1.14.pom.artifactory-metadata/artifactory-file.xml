@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mortbay/jetty/jetty/6.1.14/jetty-6.1.14.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jetty-6.1.14.pom</name>
+  <created>1511945672241</created>
+  <lastModified>1226623785000</lastModified>
+  <size>4345</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945672248</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>08ba43c3238756e8b970710df45c58ca</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>850a56f51184eb9167aaaae356c2132d7e46fcb8</original>
+          <actual>850a56f51184eb9167aaaae356c2132d7e46fcb8</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

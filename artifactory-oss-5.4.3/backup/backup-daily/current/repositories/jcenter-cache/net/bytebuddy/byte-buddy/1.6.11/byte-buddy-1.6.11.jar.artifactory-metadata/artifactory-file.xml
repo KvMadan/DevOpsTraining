@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>byte-buddy-1.6.11.jar</name>
+  <created>1522059331605</created>
+  <lastModified>1489342740000</lastModified>
+  <size>2783513</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059331613</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>abd404f008234647aa01336ca175bd49</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8a8f9409e27f1d62c909c7eef2aa7b3a580b4901</original>
+          <actual>8a8f9409e27f1d62c909c7eef2aa7b3a580b4901</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

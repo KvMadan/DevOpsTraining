@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/commons/commons-compress</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>commons-compress</name>
+  <created>1512904712520</created>
+  <lastModified>1512904712520</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904712520</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

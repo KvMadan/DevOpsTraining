@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>net/java/jvnet-parent/1/jvnet-parent-1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jvnet-parent-1.pom</name>
+  <created>1512901945811</created>
+  <lastModified>1304932324000</lastModified>
+  <size>4711</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512901945828</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>b1384b744859f0d62a1054e1d8b6f829</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>b55a1b046dbe82acdee8edde7476eebcba1e57d8</original>
+          <actual>b55a1b046dbe82acdee8edde7476eebcba1e57d8</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

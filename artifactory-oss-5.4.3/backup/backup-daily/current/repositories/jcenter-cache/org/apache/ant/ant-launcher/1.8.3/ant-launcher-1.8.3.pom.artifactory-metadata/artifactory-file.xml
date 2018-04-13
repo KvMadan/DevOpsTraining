@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/ant/ant-launcher/1.8.3/ant-launcher-1.8.3.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>ant-launcher-1.8.3.pom</name>
+  <created>1511945668172</created>
+  <lastModified>1330236490000</lastModified>
+  <size>2361</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945668178</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>bda3159d7c96c45c4da70e7dec75e158</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>7014d8e590c1f324ffb3d61a17802b0f1dc6aa96</original>
+          <actual>7014d8e590c1f324ffb3d61a17802b0f1dc6aa96</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

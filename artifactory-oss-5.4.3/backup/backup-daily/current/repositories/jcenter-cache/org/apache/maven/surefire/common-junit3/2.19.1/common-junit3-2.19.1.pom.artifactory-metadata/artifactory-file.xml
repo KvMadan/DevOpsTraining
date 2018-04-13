@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/common-junit3/2.19.1/common-junit3-2.19.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>common-junit3-2.19.1.pom</name>
+  <created>1511945570699</created>
+  <lastModified>1451917013000</lastModified>
+  <size>1579</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945570704</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>908ae18d38bb2d6614c8304c9097820d</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8f0b48304c41ef03f9d38418863356ce4b6a820e</original>
+          <actual>8f0b48304c41ef03f9d38418863356ce4b6a820e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

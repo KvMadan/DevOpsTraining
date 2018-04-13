@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-plugin-registry-2.2.1.pom</name>
+  <created>1511945528730</created>
+  <lastModified>1249586084000</lastModified>
+  <size>1929</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945528734</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d681cc469929ea6c2bc97298108c1354</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c3575ac9ad32638af33d88829453bdc902ea8711</original>
+          <actual>c3575ac9ad32638af33d88829453bdc902ea8711</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

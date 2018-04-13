@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-digester/commons-digester/1.6/commons-digester-1.6.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-digester-1.6.pom</name>
+  <created>1511945742779</created>
+  <lastModified>1220183118000</lastModified>
+  <size>974</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945742784</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>8cbcb55fb5909f5c2ba1b3401075f8bc</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>807b7186d68503e8a596c19f9d6ff2c70416967c</original>
+          <actual>807b7186d68503e8a596c19f9d6ff2c70416967c</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

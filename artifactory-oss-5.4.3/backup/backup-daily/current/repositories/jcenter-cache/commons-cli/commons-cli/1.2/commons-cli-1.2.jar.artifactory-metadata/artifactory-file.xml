@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-cli/commons-cli/1.2/commons-cli-1.2.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-cli-1.2.jar</name>
+  <created>1512904732574</created>
+  <lastModified>1237493315000</lastModified>
+  <size>41123</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904732579</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>bfdcae1ff93f0c07d733f03bdce28c9e</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>2bf96b7aa8b611c177d329452af1dc933e14501c</original>
+          <actual>2bf96b7aa8b611c177d329452af1dc933e14501c</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

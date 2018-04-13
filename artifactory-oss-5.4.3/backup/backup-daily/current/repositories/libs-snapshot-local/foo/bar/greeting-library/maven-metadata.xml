@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>foo.bar</groupId>
+  <artifactId>greeting-library</artifactId>
+  <versioning>
+    <latest>1.0-SNAPSHOT</latest>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171006102845</lastUpdated>
+  </versioning>
+</metadata>

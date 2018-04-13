@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>doxia-logging-api-1.1.pom</name>
+  <created>1512904702279</created>
+  <lastModified>1236105478000</lastModified>
+  <size>1575</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904702286</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>5775d66765d701ce46f8a241db5a895d</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>511c87192bc6c0883d077ba7ae7ddbe8a2d06fa9</original>
+          <actual>511c87192bc6c0883d077ba7ae7ddbe8a2d06fa9</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

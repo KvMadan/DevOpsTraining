@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-i18n-1.0-beta-7.jar</name>
+  <created>1511945832238</created>
+  <lastModified>1220183267000</lastModified>
+  <size>10509</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945832242</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>65d4f673bd0c49dbc67e020e96b00753</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>3690f10a668b3c7ac2ef563f14cfb6b2ba30ee57</original>
+          <actual>3690f10a668b3c7ac2ef563f14cfb6b2ba30ee57</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

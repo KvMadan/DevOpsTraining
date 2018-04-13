@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/surefire-api/2.19.1/surefire-api-2.19.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>surefire-api-2.19.1.jar</name>
+  <created>1511945556104</created>
+  <lastModified>1451846428000</lastModified>
+  <size>196073</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945556108</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>325899c60a638cc1ac49374ccb2ac605</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>bc116d32abb2302e6a21d158bd4b7cccd87d578e</original>
+          <actual>bc116d32abb2302e6a21d158bd4b7cccd87d578e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

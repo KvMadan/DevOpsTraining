@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>xpp3_min-1.1.4c.pom</name>
+  <created>1511945621707</created>
+  <lastModified>1220183122000</lastModified>
+  <size>1610</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945621713</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d822fa0c9182ae670b78533bd5a5ed7b</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>4d2f2cf4e7b090e4c0c3010c6cd27cdb45ca593e</original>
+          <actual>4d2f2cf4e7b090e4c0c3010c6cd27cdb45ca593e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

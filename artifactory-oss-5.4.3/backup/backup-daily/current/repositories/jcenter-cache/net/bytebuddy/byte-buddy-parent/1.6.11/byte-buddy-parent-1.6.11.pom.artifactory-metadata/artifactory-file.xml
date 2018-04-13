@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>net/bytebuddy/byte-buddy-parent/1.6.11/byte-buddy-parent-1.6.11.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>byte-buddy-parent-1.6.11.pom</name>
+  <created>1522059325534</created>
+  <lastModified>1489342609000</lastModified>
+  <size>25816</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059325552</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>0ad648d85e277258e810790e9917ee96</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>168db98c34edec032d3e58ad77385952db2afa57</original>
+          <actual>168db98c34edec032d3e58ad77385952db2afa57</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

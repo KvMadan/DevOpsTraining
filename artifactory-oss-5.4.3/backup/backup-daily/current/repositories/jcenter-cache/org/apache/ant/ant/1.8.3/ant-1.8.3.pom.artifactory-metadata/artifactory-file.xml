@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/ant/ant/1.8.3/ant-1.8.3.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>ant-1.8.3.pom</name>
+  <created>1511945665502</created>
+  <lastModified>1330236348000</lastModified>
+  <size>9654</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945665505</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>74e915cd4598a88e9b776f6da9526875</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>93bcd23901bcb44b3ee8a78957d985e730004dbc</original>
+          <actual>93bcd23901bcb44b3ee8a78957d985e730004dbc</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

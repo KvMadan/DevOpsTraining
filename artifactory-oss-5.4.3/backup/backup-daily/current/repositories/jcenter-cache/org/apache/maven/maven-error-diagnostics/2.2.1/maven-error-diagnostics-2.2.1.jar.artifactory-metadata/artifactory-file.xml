@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-error-diagnostics-2.2.1.jar</name>
+  <created>1511945552663</created>
+  <lastModified>1249586075000</lastModified>
+  <size>13022</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945552667</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>8eaa64d20f32c0b0c1beb9739bbb5fe3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>e81bb342d7d172f23d108dc8fa979a1facdcde8e</original>
+          <actual>e81bb342d7d172f23d108dc8fa979a1facdcde8e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/ow2/ow2/1.3</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.3</name>
+  <created>1511945657071</created>
+  <lastModified>1511945657071</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945657071</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

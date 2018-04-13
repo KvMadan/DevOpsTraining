@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jcl-over-slf4j-1.7.5.jar</name>
+  <created>1511945320663</created>
+  <lastModified>1364244799000</lastModified>
+  <size>16517</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945320678</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>4dde0990b45d1bbba6ee141da8fa9c25</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>0cd5970bd13fa85f7bed41ca606d6daf7cbf1365</original>
+          <actual>0cd5970bd13fa85f7bed41ca606d6daf7cbf1365</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

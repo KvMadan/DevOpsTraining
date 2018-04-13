@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-plugin-descriptor-2.2.1.jar</name>
+  <created>1511945544875</created>
+  <lastModified>1249586142000</lastModified>
+  <size>39285</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945544884</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>f28d3a50552a8d2943587638f5f01455</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>68d20ae3c40c4664dc52be90338af796db7ffb32</original>
+          <actual>68d20ae3c40c4664dc52be90338af796db7ffb32</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

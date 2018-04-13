@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>mojo-parent-34.pom</name>
+  <created>1511945276704</created>
+  <lastModified>1411851600000</lastModified>
+  <size>24338</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945276716</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>dce811ddb461d113b7d1d6c6659dca95</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>803dc5cf36e504c5a48aa9a321f7fba1d6396733</original>
+          <actual>803dc5cf36e504c5a48aa9a321f7fba1d6396733</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

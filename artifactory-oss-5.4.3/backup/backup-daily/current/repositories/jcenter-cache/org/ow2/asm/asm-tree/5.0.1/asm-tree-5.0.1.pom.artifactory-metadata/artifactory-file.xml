@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/ow2/asm/asm-tree/5.0.1/asm-tree-5.0.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>asm-tree-5.0.1.pom</name>
+  <created>1511945658497</created>
+  <lastModified>1395570000000</lastModified>
+  <size>2083</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945658507</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>a1f38cef337d376eda05582861495b2c</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>6abf19f3ff1f171220075a08baff3294694161eb</original>
+          <actual>6abf19f3ff1f171220075a08baff3294694161eb</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

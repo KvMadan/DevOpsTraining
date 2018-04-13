@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/ow2/asm/asm/5.0.1/asm-5.0.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>asm-5.0.1.jar</name>
+  <created>1511945801095</created>
+  <lastModified>1395569940000</lastModified>
+  <size>53217</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945801099</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d6fa9169eb883ac82effd333eaffd4fc</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>2fd56467a018aafe6ec6a73ccba520be4a7e1565</original>
+          <actual>2fd56467a018aafe6ec6a73ccba520be4a7e1565</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

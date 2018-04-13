@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-mapping-1.0.pom</name>
+  <created>1512904730559</created>
+  <lastModified>1376174636000</lastModified>
+  <size>4456</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904730563</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>af5f7445a174ae6a8c9a5e295a03add4</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>ff71181d6656db46b8bca8747da20df733e9d59b</original>
+          <actual>ff71181d6656db46b8bca8747da20df733e9d59b</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

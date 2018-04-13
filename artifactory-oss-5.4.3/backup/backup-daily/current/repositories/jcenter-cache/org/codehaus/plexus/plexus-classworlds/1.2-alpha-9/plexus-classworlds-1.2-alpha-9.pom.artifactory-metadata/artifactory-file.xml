@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-classworlds-1.2-alpha-9.pom</name>
+  <created>1511945754464</created>
+  <lastModified>1220183266000</lastModified>
+  <size>3223</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945754469</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>bbcda63ac76000640ab08de9b033a0e1</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>32be3692644bf86d1226e13e2a60b49a9fa49571</original>
+          <actual>32be3692644bf86d1226e13e2a60b49a9fa49571</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

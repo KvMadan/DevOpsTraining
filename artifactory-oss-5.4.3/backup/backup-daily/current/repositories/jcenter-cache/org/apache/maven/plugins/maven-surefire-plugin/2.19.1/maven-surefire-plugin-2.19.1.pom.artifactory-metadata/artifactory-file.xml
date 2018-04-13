@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/plugins/maven-surefire-plugin/2.19.1/maven-surefire-plugin-2.19.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-surefire-plugin-2.19.1.pom</name>
+  <created>1511945267104</created>
+  <lastModified>1451846412000</lastModified>
+  <size>5564</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945267120</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>a4abefcbd595f9f16bd49df7f933963f</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>366f79882e72d8c53a7f2748e85c63352fd372b5</original>
+          <actual>366f79882e72d8c53a7f2748e85c63352fd372b5</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

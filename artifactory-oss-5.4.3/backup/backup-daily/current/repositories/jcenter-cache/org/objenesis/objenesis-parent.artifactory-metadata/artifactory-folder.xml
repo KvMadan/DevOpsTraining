@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/objenesis/objenesis-parent</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>objenesis-parent</name>
+  <created>1522059327586</created>
+  <lastModified>1522059327586</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059327586</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

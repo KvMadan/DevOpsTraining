@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/springframework/spring-aop/4.1.1.RELEASE/spring-aop-4.1.1.RELEASE.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>spring-aop-4.1.1.RELEASE.pom</name>
+  <created>1511945288951</created>
+  <lastModified>1412167674000</lastModified>
+  <size>2655</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945288957</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>6a67c0d8dfaf562066b60e890e31273d</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>e7c4308985874da18109b7846e36a75738f152ca</original>
+          <actual>e7c4308985874da18109b7846e36a75738f152ca</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

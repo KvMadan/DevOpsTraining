@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility/javaee/HelloWorldJavaEE/0.0.1-SNAPSHOT</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>0.0.1-SNAPSHOT</name>
+  <created>1512904744819</created>
+  <lastModified>1512904744819</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1512904744819</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

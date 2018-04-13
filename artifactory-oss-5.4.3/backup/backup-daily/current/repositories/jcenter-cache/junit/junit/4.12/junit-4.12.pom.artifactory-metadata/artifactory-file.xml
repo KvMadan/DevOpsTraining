@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>junit/junit/4.12/junit-4.12.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>junit-4.12.pom</name>
+  <created>1511945522689</created>
+  <lastModified>1417709820000</lastModified>
+  <size>23678</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945522696</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>af7ca61fba26556cfe5b40cf15aadc14</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>35fb238baee3f3af739074d723279ebea2028398</original>
+          <actual>35fb238baee3f3af739074d723279ebea2028398</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

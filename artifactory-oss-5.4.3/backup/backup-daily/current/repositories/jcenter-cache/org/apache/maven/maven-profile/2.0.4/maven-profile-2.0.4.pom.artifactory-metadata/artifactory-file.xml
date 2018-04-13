@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-profile/2.0.4/maven-profile-2.0.4.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-profile-2.0.4.pom</name>
+  <created>1511945737972</created>
+  <lastModified>1220183218000</lastModified>
+  <size>1618</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945737978</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>e7af4aec2c0028868b2bd8fccb64e8ac</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>581a2f5aecc9d6130bf2c265b1787dd9ab688be4</original>
+          <actual>581a2f5aecc9d6130bf2c265b1787dd9ab688be4</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

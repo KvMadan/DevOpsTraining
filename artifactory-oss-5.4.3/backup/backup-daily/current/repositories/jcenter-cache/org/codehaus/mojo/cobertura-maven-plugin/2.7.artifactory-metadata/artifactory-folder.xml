@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/mojo/cobertura-maven-plugin/2.7</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>2.7</name>
+  <created>1511945275968</created>
+  <lastModified>1511945275968</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945275968</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

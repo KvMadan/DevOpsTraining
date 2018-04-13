@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-compiler-javac-1.8.1.jar</name>
+  <created>1511945506739</created>
+  <lastModified>1283105876000</lastModified>
+  <size>12521</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945506745</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d146d5adbc867bf51aa5b19e698dc121</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>fb7b519441d9ffb0b13d284d767b19db173fb4b0</original>
+          <actual>fb7b519441d9ffb0b13d284d767b19db173fb4b0</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

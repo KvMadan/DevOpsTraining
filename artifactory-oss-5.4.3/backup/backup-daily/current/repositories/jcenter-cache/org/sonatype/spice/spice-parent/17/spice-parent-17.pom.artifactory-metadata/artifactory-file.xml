@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/sonatype/spice/spice-parent/17/spice-parent-17.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>spice-parent-17.pom</name>
+  <created>1511945595534</created>
+  <lastModified>1307713206000</lastModified>
+  <size>6759</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945595539</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>0e1f6ebac6139f0ce23d2ba969997199</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>7f500699ef371383492a4d6ee799b1a77ffd82cc</original>
+          <actual>7f500699ef371383492a4d6ee799b1a77ffd82cc</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

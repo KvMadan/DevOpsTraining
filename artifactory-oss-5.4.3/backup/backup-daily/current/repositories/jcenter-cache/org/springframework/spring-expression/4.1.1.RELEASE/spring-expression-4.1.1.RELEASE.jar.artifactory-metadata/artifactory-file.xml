@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/springframework/spring-expression/4.1.1.RELEASE/spring-expression-4.1.1.RELEASE.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>spring-expression-4.1.1.RELEASE.jar</name>
+  <created>1511945331078</created>
+  <lastModified>1412167647000</lastModified>
+  <size>249660</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945331084</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>041a51c0b0be07bd2d488f6f51c5c8b5</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c86cad6880c3f5c13a81677411b6f41873c80e75</original>
+          <actual>c86cad6880c3f5c13a81677411b6f41873c80e75</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

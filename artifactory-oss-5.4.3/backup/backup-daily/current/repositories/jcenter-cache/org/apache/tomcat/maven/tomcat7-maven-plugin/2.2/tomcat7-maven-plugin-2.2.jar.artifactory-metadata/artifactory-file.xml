@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>tomcat7-maven-plugin-2.2.jar</name>
+  <created>1512124546423</created>
+  <lastModified>1384166112000</lastModified>
+  <size>114462</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512124546432</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d424a2efd35b2b4069925e1397a5a89d</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>b1eb7ecfe89d37490603aa20f847d45dbc3121cd</original>
+          <actual>b1eb7ecfe89d37490603aa20f847d45dbc3121cd</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

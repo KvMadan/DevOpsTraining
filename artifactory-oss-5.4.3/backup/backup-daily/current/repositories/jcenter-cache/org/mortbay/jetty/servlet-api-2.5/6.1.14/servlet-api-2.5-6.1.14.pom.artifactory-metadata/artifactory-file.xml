@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>servlet-api-2.5-6.1.14.pom</name>
+  <created>1511945669590</created>
+  <lastModified>1226623745000</lastModified>
+  <size>3382</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945669597</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>788c499b37f6d892cb036989239a9636</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>84163b3348050812fea54766a3efa63bb2b28e0a</original>
+          <actual>84163b3348050812fea54766a3efa63bb2b28e0a</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

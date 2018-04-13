@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/surefire-providers/2.19.1/surefire-providers-2.19.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>surefire-providers-2.19.1.pom</name>
+  <created>1511945562368</created>
+  <lastModified>1451846494000</lastModified>
+  <size>2563</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945562380</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>e4b07ac078fcf4ff41f277b8e0bdb975</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c41398bbbbda22264bff31275b8e7c05e981f01f</original>
+          <actual>c41398bbbbda22264bff31275b8e7c05e981f01f</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

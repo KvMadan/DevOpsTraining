@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>mockito-core-2.7.22.pom</name>
+  <created>1522059323784</created>
+  <lastModified>1491576159000</lastModified>
+  <size>2313</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059323810</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>b9d5a76f08b740290d1e9b9e73e02000</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>7b34f0d1a5ed175a543b89a0297e47c0e6485bd0</original>
+          <actual>7b34f0d1a5ed175a543b89a0297e47c0e6485bd0</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

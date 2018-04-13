@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>xml-apis/xml-apis/1.0.b2</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.0.b2</name>
+  <created>1511945746210</created>
+  <lastModified>1511945746210</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945746210</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

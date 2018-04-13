@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-archiver/2.6</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>2.6</name>
+  <created>1512904704811</created>
+  <lastModified>1512904704811</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904704811</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

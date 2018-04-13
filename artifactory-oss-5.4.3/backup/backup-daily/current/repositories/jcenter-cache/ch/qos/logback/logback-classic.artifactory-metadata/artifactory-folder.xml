@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>ch/qos/logback/logback-classic</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>logback-classic</name>
+  <created>1511945285759</created>
+  <lastModified>1511945285759</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945285759</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

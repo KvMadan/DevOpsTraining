@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/shared/maven-shared-utils/0.6/maven-shared-utils-0.6.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-shared-utils-0.6.pom</name>
+  <created>1512904726129</created>
+  <lastModified>1395142440000</lastModified>
+  <size>4879</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904726134</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>0f1580f3b44f6b77d250123367e552bc</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8b703e3862a8c071daeb80934a4e24568897e35e</original>
+          <actual>8b703e3862a8c071daeb80934a4e24568897e35e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

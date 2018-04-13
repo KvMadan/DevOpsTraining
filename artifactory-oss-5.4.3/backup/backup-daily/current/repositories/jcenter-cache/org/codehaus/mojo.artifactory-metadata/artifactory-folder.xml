@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/mojo</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>mojo</name>
+  <created>1511945275966</created>
+  <lastModified>1511945275966</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945275966</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

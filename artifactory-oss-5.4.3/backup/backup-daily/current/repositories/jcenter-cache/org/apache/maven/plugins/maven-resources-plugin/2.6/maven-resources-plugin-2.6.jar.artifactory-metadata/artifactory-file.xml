@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-resources-plugin-2.6.jar</name>
+  <created>1511945232013</created>
+  <lastModified>1345027370000</lastModified>
+  <size>29519</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945232031</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>e7cc4bbb6888e6c9dd5acdad08cf4bd3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>dd093ff6a4b680eae7ae83b5ab04310249fc6590</original>
+          <actual>dd093ff6a4b680eae7ae83b5ab04310249fc6590</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

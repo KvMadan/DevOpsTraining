@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/springframework/spring-context/4.1.1.RELEASE/spring-context-4.1.1.RELEASE.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>spring-context-4.1.1.RELEASE.jar</name>
+  <created>1511945338203</created>
+  <lastModified>1412167783000</lastModified>
+  <size>1026617</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945338216</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>5169ac4c99afe5e1cf2eefd9fe02aea3</original>
+          <actual>5169ac4c99afe5e1cf2eefd9fe02aea3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>3c79ab100df285ea0cc0b4543fe4042543405001</original>
+          <actual>3c79ab100df285ea0cc0b4543fe4042543405001</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

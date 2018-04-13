@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>logback-core-1.0.13.pom</name>
+  <created>1511945287209</created>
+  <lastModified>1368189194000</lastModified>
+  <size>5015</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945287216</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>2282368f30585d08632cdfb02ff37280</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>239e23ee6fad7a151ad00ab0e843d23ee5bd1fa0</original>
+          <actual>239e23ee6fad7a151ad00ab0e843d23ee5bd1fa0</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/commons/commons-parent/34/commons-parent-34.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-parent-34.pom</name>
+  <created>1512904713824</created>
+  <lastModified>1397387640000</lastModified>
+  <size>55943</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904713835</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>273782304b4f2893292c3f01600d2792</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>1f6be162a806d8343e3cd238dd728558532473a5</original>
+          <actual>1f6be162a806d8343e3cd238dd728558532473a5</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

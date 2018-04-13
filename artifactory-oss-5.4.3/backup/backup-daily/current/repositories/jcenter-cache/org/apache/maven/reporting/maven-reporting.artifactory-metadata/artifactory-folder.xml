@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/reporting/maven-reporting</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>maven-reporting</name>
+  <created>1511945434343</created>
+  <lastModified>1511945434343</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945434343</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

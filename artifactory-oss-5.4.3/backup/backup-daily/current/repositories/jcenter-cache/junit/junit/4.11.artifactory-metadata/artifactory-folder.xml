@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>junit/junit/4.11</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>4.11</name>
+  <created>1511945280987</created>
+  <lastModified>1511945280987</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945280987</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

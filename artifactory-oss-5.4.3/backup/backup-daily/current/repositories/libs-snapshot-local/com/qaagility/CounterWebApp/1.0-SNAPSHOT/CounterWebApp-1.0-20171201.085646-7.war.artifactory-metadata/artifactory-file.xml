@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility/CounterWebApp/1.0-SNAPSHOT/CounterWebApp-1.0-20171201.085646-7.war</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>CounterWebApp-1.0-20171201.085646-7.war</name>
+  <created>1512118625167</created>
+  <lastModified>1512118622371</lastModified>
+  <size>5554296</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1512118622371</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>bdc5b17314acebd46762e50f0d293417</original>
+          <actual>bdc5b17314acebd46762e50f0d293417</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>f34bc9e85eca0a142535e6a66aae7d2107fbe6a8</original>
+          <actual>f34bc9e85eca0a142535e6a66aae7d2107fbe6a8</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

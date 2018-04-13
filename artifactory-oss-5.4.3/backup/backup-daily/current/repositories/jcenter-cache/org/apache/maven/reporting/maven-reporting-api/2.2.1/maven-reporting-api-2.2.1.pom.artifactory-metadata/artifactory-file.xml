@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-reporting-api-2.2.1.pom</name>
+  <created>1512904699118</created>
+  <lastModified>1249586051000</lastModified>
+  <size>1852</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904699124</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>6b9729f3a386a45e81b5d3d486e228a5</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>54d326154c3a5befd2fee3ff054ffc8cea635c54</original>
+          <actual>54d326154c3a5befd2fee3ff054ffc8cea635c54</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

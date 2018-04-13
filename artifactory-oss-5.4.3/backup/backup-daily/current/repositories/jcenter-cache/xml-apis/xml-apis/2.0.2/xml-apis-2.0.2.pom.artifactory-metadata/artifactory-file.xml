@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>xml-apis/xml-apis/2.0.2/xml-apis-2.0.2.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>xml-apis-2.0.2.pom</name>
+  <created>1511945747582</created>
+  <lastModified>1132684118000</lastModified>
+  <size>346</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945747589</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>9be53ed254e86481e786eea8c34585e9</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>bf2e4baaea312f54f2934c6eb9bbde0a2a4afb07</original>
+          <actual>bf2e4baaea312f54f2934c6eb9bbde0a2a4afb07</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

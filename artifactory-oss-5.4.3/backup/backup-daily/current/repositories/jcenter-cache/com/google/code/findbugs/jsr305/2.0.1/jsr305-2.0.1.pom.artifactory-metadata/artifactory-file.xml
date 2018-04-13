@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jsr305-2.0.1.pom</name>
+  <created>1511945576392</created>
+  <lastModified>1343600279000</lastModified>
+  <size>965</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945576400</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>9597f0f0a415d9eeefc28a13a2222c15</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>95efa8cea662452bb74b34abe09a93ff47625c8f</original>
+          <actual>95efa8cea662452bb74b34abe09a93ff47625c8f</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

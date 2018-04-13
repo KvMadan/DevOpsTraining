@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>spring-web-4.1.1.RELEASE.pom</name>
+  <created>1511945288245</created>
+  <lastModified>1412167669000</lastModified>
+  <size>7323</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945288252</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>df49a8278305b44c1a5d0fce4d5248ff</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>2f48326a97674552b8a0ef87b56db2d861a0dc25</original>
+          <actual>2f48326a97674552b8a0ef87b56db2d861a0dc25</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

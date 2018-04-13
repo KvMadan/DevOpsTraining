@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>net/bytebuddy/byte-buddy-parent</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>byte-buddy-parent</name>
+  <created>1522059325533</created>
+  <lastModified>1522059325533</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522059325533</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

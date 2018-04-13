@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/plugins/maven-eclipse-plugin/2.9/maven-eclipse-plugin-2.9.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-eclipse-plugin-2.9.jar</name>
+  <created>1512124540772</created>
+  <lastModified>1326408021000</lastModified>
+  <size>217669</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512124540782</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>69af216df23ec5682cb4649f0dcd55b9</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c06c37bbc598f6963eabf278fd8e5299fb2fd308</original>
+          <actual>c06c37bbc598f6963eabf278fd8e5299fb2fd308</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

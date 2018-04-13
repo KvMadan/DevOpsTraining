@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-utils/3.0.20</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>3.0.20</name>
+  <created>1512904709070</created>
+  <lastModified>1512904709070</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904709070</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

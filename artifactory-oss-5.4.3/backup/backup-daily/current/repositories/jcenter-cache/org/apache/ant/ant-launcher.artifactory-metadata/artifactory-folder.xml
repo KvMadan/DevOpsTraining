@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/ant/ant-launcher</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>ant-launcher</name>
+  <created>1511945668172</created>
+  <lastModified>1511945668172</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945668172</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

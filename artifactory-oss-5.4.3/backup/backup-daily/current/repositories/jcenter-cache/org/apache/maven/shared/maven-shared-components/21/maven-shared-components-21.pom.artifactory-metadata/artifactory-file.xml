@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/shared/maven-shared-components/21/maven-shared-components-21.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-shared-components-21.pom</name>
+  <created>1511945573863</created>
+  <lastModified>1413730920000</lastModified>
+  <size>5107</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945573868</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>77a7c30089ba980ea06cb3d3913330c6</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>3d9749ccbb40dd6de825e959a6ab23a2bf85513d</original>
+          <actual>3d9749ccbb40dd6de825e959a6ab23a2bf85513d</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

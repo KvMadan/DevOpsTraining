@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>junit/junit/3.8.2/junit-3.8.2.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>junit-3.8.2.pom</name>
+  <created>1511945873681</created>
+  <lastModified>1220183125000</lastModified>
+  <size>747</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945873686</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>fee384b8581654da6245efecc33f8264</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c735a15ca8fc2ea77db963c71ade153ffeb8212e</original>
+          <actual>c735a15ca8fc2ea77db963c71ade153ffeb8212e</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

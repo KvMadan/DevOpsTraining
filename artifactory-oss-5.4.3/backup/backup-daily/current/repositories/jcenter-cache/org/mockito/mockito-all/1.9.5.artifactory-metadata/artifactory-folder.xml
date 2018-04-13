@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mockito/mockito-all/1.9.5</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.9.5</name>
+  <created>1522050124144</created>
+  <lastModified>1522050124144</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522050124144</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

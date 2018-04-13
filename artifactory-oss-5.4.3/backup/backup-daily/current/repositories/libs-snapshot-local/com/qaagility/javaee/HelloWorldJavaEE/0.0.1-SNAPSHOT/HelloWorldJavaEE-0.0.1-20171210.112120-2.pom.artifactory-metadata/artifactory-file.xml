@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility/javaee/HelloWorldJavaEE/0.0.1-SNAPSHOT/HelloWorldJavaEE-0.0.1-20171210.112120-2.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>HelloWorldJavaEE-0.0.1-20171210.112120-2.pom</name>
+  <created>1512904900684</created>
+  <lastModified>1512904900679</lastModified>
+  <size>3699</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1512904900679</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>d044978bd6c3e8eb161c1d57df65e41d</original>
+          <actual>d044978bd6c3e8eb161c1d57df65e41d</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>bc6d128ad1c376d1e89206bb3ac55f4b8208f4d1</original>
+          <actual>bc6d128ad1c376d1e89206bb3ac55f4b8208f4d1</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

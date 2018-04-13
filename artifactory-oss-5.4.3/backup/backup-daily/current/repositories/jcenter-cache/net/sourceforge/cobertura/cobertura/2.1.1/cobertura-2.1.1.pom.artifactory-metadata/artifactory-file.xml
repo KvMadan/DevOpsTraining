@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>net/sourceforge/cobertura/cobertura/2.1.1/cobertura-2.1.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>cobertura-2.1.1.pom</name>
+  <created>1511945648508</created>
+  <lastModified>1424989560000</lastModified>
+  <size>19507</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945648540</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>2a8823fd44f64db742eaf26791cf5224</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>a8881b08de8eedb1f65f6422de777cdfc36ba22f</original>
+          <actual>a8881b08de8eedb1f65f6422de777cdfc36ba22f</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

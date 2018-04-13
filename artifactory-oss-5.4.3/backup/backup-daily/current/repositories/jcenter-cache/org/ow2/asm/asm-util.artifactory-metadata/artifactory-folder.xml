@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/ow2/asm/asm-util</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>asm-util</name>
+  <created>1511945661287</created>
+  <lastModified>1511945661287</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945661287</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

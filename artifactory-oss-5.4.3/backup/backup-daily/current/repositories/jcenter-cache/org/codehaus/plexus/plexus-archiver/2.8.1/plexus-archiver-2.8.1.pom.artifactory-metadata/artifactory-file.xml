@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-archiver/2.8.1/plexus-archiver-2.8.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-archiver-2.8.1.pom</name>
+  <created>1512904706938</created>
+  <lastModified>1414225740000</lastModified>
+  <size>4118</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904706947</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>fc08ce7d5622741709cc6c5c3d6a9c5a</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>fabb4c6b362103ff4bcd7f2b9ece4baec9cfd60a</original>
+          <actual>fabb4c6b362103ff4bcd7f2b9ece4baec9cfd60a</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-cipher-1.4.pom</name>
+  <created>1511945538092</created>
+  <lastModified>1241034002000</lastModified>
+  <size>2065</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945538099</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d9598c49bfc5b53719cf2f5bf0c01c79</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8c0bee97c1badb926611bf82358e392fedc07764</original>
+          <actual>8c0bee97c1badb926611bf82358e392fedc07764</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

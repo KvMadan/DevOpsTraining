@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/sonatype/plexus/plexus-cipher/1.4</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.4</name>
+  <created>1511945538092</created>
+  <lastModified>1511945538092</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945538092</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

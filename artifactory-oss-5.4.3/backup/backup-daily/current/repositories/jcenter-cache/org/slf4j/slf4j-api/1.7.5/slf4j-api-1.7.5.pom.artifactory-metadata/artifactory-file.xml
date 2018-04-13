@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>slf4j-api-1.7.5.pom</name>
+  <created>1511945285045</created>
+  <lastModified>1364244735000</lastModified>
+  <size>2689</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945285055</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>dd9924362463574be9fa79b325275ccc</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8bef62de94ecb16f574fadc01dcd3127ddb1a4da</original>
+          <actual>8bef62de94ecb16f574fadc01dcd3127ddb1a4da</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-digest-1.0.pom</name>
+  <created>1511945881783</created>
+  <lastModified>1220183266000</lastModified>
+  <size>1059</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945881796</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>f2901dfc753510110886f2d2a816bbc5</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>df5c2e55c9f30db34972661819437f1802128861</original>
+          <actual>df5c2e55c9f30db34972661819437f1802128861</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/jdom/jdom/1.1.3/jdom-1.1.3.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jdom-1.1.3.pom</name>
+  <created>1511945689960</created>
+  <lastModified>1330319011000</lastModified>
+  <size>1821</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945689971</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>30f4425cc81f897ebdc2f83972d3c4ae</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>cfbc5e75efa583852d8c19dcada564b4254f0fcc</original>
+          <actual>cfbc5e75efa583852d8c19dcada564b4254f0fcc</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

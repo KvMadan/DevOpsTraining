@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>qaagility</name>
+  <created>1511945905282</created>
+  <lastModified>1511945905282</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1511945905282</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

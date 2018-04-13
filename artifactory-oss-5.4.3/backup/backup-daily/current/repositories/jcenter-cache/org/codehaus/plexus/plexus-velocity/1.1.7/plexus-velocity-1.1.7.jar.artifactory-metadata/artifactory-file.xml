@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-velocity-1.1.7.jar</name>
+  <created>1511945832436</created>
+  <lastModified>1220183271000</lastModified>
+  <size>7668</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945832441</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>d460d060e07b3bccaf6593440ce7be1e</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>1440fc2552d1405b1c2d380ef3b96c4d9c6dbd0b</original>
+          <actual>1440fc2552d1405b1c2d380ef3b96c4d9c6dbd0b</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

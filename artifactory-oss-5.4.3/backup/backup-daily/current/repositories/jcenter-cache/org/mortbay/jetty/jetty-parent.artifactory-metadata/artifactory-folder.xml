@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mortbay/jetty/jetty-parent</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>jetty-parent</name>
+  <created>1511945671540</created>
+  <lastModified>1511945671540</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945671540</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

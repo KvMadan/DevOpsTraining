@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>jstl/jstl/1.2/jstl-1.2.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jstl-1.2.pom</name>
+  <created>1511945304088</created>
+  <lastModified>1147401480000</lastModified>
+  <size>141</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945314155</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>4a166c0989a0927b4340a04de037531c</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>80e26c0f726d948e7d404b96b229c16f2ab8324a</original>
+          <actual>80e26c0f726d948e7d404b96b229c16f2ab8324a</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

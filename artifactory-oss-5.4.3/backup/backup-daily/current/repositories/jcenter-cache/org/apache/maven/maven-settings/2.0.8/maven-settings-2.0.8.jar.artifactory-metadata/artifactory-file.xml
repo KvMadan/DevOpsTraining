@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-settings/2.0.8/maven-settings-2.0.8.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-settings-2.0.8.jar</name>
+  <created>1511945844234</created>
+  <lastModified>1220183212000</lastModified>
+  <size>49113</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945844238</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>c7c653ffdf511f0b02ab92343aa65dde</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>6185fdfcce817e9b84969f8a3d08e478bf69b8fb</original>
+          <actual>6185fdfcce817e9b84969f8a3d08e478bf69b8fb</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-parent/9</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>9</name>
+  <created>1511945627810</created>
+  <lastModified>1511945627810</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945627810</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

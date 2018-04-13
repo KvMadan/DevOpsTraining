@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/common-junit48/2.19.1/common-junit48-2.19.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>common-junit48-2.19.1.jar</name>
+  <created>1511945581155</created>
+  <lastModified>1451917016000</lastModified>
+  <size>22670</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945581161</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>217aebc93b2c3fefeb56fb1e83ea8ab3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>2c4d940129098d554613e896a487dccd0089d2a5</original>
+          <actual>2c4d940129098d554613e896a487dccd0089d2a5</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

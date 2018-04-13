@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>hamcrest-core-1.3.pom</name>
+  <created>1511945281660</created>
+  <lastModified>1341868082000</lastModified>
+  <size>766</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945281672</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>7cd680c223f3807e1ef353466b9a4b25</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>872e413497b906e7c9fa85ccc96046c5d1ef7ece</original>
+          <actual>872e413497b906e7c9fa85ccc96046c5d1ef7ece</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

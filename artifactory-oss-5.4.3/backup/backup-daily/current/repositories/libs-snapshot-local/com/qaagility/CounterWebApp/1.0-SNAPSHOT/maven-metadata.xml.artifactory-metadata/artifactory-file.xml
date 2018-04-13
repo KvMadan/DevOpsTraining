@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility/CounterWebApp/1.0-SNAPSHOT/maven-metadata.xml</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-metadata.xml</name>
+  <created>1511945905376</created>
+  <lastModified>1523517271701</lastModified>
+  <size>773</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1523517271701</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>NO_ORIG</original>
+          <actual>503f6772b370b194c3a40551ac7c7291</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>NO_ORIG</original>
+          <actual>700dd7e1d2656a3c2d46165d244e8082984381cc</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

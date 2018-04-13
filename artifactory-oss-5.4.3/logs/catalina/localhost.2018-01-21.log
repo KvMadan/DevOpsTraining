@@ -1,0 +1,5 @@
+21-Jan-2018 11:46:23.181 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Using artifactory.home at '/home/devops/Downloads/artifactory-oss-5.4.3' resolved from: System property
+21-Jan-2018 11:46:23.524 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+21-Jan-2018 11:46:29.983 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Jan-2018 11:46:34.520 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log jolokia: No access restrictor found, access to any MBean is allowed
+21-Jan-2018 16:24:10.901 INFO [localhost-startStop-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext

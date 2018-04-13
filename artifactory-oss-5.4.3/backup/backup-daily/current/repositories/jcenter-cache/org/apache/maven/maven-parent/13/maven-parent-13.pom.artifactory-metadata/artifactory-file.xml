@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-parent/13/maven-parent-13.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-parent-13.pom</name>
+  <created>1511945799176</created>
+  <lastModified>1250547114000</lastModified>
+  <size>22634</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945799182</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>ade9c78951c35b889092443ef73d61f5</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>743843d9973c083b7755e4a26a9c2ac369608ab5</original>
+          <actual>743843d9973c083b7755e4a26a9c2ac369608ab5</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

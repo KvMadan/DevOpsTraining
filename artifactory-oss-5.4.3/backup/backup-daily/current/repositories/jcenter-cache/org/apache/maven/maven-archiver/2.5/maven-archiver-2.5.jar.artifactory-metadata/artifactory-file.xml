@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-archiver-2.5.jar</name>
+  <created>1511945639173</created>
+  <lastModified>1327586944000</lastModified>
+  <size>21813</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945639177</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>7495b78e898fb9968487ab47cc1c7e5f</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>c999ae305f22ecfc5a000dca12a39b9491778bd5</original>
+          <actual>c999ae305f22ecfc5a000dca12a39b9491778bd5</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

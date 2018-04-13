@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/springframework/spring-expression</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>spring-expression</name>
+  <created>1511945299744</created>
+  <lastModified>1511945299744</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945299744</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

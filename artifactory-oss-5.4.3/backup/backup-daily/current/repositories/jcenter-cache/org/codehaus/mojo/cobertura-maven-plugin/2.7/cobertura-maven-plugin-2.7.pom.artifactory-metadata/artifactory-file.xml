@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/mojo/cobertura-maven-plugin/2.7/cobertura-maven-plugin-2.7.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>cobertura-maven-plugin-2.7.pom</name>
+  <created>1511945275968</created>
+  <lastModified>1425053640000</lastModified>
+  <size>13321</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945275990</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>04dbddb6f32c7ad26de67a42a5875a8f</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>b66c703679b6821c5a141c18ee18ca65d2ea58fa</original>
+          <actual>b66c703679b6821c5a141c18ee18ca65d2ea58fa</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

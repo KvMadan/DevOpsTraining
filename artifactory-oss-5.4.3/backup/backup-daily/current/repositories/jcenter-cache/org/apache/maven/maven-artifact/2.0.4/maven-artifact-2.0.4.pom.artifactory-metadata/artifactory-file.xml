@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-artifact/2.0.4/maven-artifact-2.0.4.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-artifact-2.0.4.pom</name>
+  <created>1511945740043</created>
+  <lastModified>1220183191000</lastModified>
+  <size>765</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945740048</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>a1a6b513064d7158d37f154a794ab36e</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>f11d6b6653cf6c4d8b82144268667680b3a12177</original>
+          <actual>f11d6b6653cf6c4d8b82144268667680b3a12177</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>oro/oro/2.0.8/oro-2.0.8.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>oro-2.0.8.jar</name>
+  <created>1511945803459</created>
+  <lastModified>1220183122000</lastModified>
+  <size>65261</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945803463</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>42e940d5d2d822f4dc04c65053e630ab</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>5592374f834645c4ae250f4c9fbb314c9369d698</original>
+          <actual>5592374f834645c4ae250f4c9fbb314c9369d698</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

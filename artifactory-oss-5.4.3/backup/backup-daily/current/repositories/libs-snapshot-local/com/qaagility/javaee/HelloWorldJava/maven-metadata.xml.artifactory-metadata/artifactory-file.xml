@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility/javaee/HelloWorldJava/maven-metadata.xml</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-metadata.xml</name>
+  <created>1519552094600</created>
+  <lastModified>1521101964331</lastModified>
+  <size>387</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1521101964331</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>NO_ORIG</original>
+          <actual>763bbda6002c7ff0a0c2bb3fc341ba03</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>NO_ORIG</original>
+          <actual>cd20de2ae176790113afccfdf7bc9b4196573327</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

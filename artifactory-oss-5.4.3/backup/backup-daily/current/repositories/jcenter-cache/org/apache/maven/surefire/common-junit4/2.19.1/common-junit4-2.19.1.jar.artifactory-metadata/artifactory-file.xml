@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/common-junit4/2.19.1/common-junit4-2.19.1.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>common-junit4-2.19.1.jar</name>
+  <created>1511945578617</created>
+  <lastModified>1451917017000</lastModified>
+  <size>25910</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945578622</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>1363b8229da25fddc322a24b72955592</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>3c5f90a4778d003ded3d605d21cc09f82ac21ffc</original>
+          <actual>3c5f90a4778d003ded3d605d21cc09f82ac21ffc</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

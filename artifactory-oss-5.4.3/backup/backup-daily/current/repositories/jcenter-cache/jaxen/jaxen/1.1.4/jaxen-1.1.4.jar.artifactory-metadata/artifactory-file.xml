@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>jaxen/jaxen/1.1.4/jaxen-1.1.4.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>jaxen-1.1.4.jar</name>
+  <created>1511945815441</created>
+  <lastModified>1345134647000</lastModified>
+  <size>226161</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945815451</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>22ac9320ae8f9b03c4c98e8ab621a10c</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8c06a96cf9150ded75c28b7087ed821a93270c41</original>
+          <actual>8c06a96cf9150ded75c28b7087ed821a93270c41</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

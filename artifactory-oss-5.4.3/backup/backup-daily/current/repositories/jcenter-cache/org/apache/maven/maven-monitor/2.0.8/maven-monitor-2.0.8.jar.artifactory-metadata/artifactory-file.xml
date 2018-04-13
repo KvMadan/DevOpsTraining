@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/maven-monitor/2.0.8/maven-monitor-2.0.8.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-monitor-2.0.8.jar</name>
+  <created>1511945821714</created>
+  <lastModified>1220183197000</lastModified>
+  <size>10329</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945821718</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>dace1e5246248fbf879f1aca306f97b3</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>df4d3333d0b7f825d26a7b1b54366c7c3ed06672</original>
+          <actual>df4d3333d0b7f825d26a7b1b54366c7c3ed06672</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

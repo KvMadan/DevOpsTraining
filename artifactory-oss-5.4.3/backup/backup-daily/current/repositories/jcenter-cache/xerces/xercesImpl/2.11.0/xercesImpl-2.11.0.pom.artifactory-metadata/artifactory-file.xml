@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>xercesImpl-2.11.0.pom</name>
+  <created>1511945678909</created>
+  <lastModified>1361391606000</lastModified>
+  <size>3392</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945687822</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>64288948e6420e49679348b0ce1963f8</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>382011ff8f35a64f90dcfd288ea86b7c0844a259</original>
+          <actual>382011ff8f35a64f90dcfd288ea86b7c0844a259</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

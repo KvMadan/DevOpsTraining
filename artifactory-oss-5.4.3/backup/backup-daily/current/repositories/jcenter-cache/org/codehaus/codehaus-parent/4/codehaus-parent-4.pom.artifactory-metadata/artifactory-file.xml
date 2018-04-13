@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/codehaus-parent/4/codehaus-parent-4.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>codehaus-parent-4.pom</name>
+  <created>1511945277386</created>
+  <lastModified>1304492052000</lastModified>
+  <size>4821</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945277398</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>7b43716f3172099a039d8ab19fcd1b6b</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8b133202d50bec1e59bddc9392cb44d1fe5facc8</original>
+          <actual>8b133202d50bec1e59bddc9392cb44d1fe5facc8</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>doxia-module-apt-1.0.pom</name>
+  <created>1511945791830</created>
+  <lastModified>1234915672000</lastModified>
+  <size>2253</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945791836</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>041bd253545c7398cbe3c475b16b537e</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>4d78dfaba27a352590ea86e6eaa80284c004e603</original>
+          <actual>4d78dfaba27a352590ea86e6eaa80284c004e603</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

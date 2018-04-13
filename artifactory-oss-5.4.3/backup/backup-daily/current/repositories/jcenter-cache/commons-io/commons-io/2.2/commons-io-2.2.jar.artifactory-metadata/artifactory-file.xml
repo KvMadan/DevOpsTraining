@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>commons-io/commons-io/2.2/commons-io-2.2.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>commons-io-2.2.jar</name>
+  <created>1512904736043</created>
+  <lastModified>1332774876000</lastModified>
+  <size>173587</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904736051</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>6ad49e3e16c2342e9ee9599ce04775e6</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a</original>
+          <actual>83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

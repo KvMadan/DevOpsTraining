@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>foo/bar/greeting-library/1.0-SNAPSHOT/greeting-library-1.0-20171006.095731-3.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>greeting-library-1.0-20171006.095731-3.jar</name>
+  <created>1507283851918</created>
+  <lastModified>1507283851849</lastModified>
+  <size>1558</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1507283851849</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>69f25c96f36fee2c045df686f22a9384</original>
+          <actual>69f25c96f36fee2c045df686f22a9384</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>5da709688f34ace6f877acd7c101a4836ee8a664</original>
+          <actual>5da709688f34ace6f877acd7c101a4836ee8a664</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

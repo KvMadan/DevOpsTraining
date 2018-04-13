@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>foo</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>foo</name>
+  <created>1507205814238</created>
+  <lastModified>1507205814238</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1507205814238</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

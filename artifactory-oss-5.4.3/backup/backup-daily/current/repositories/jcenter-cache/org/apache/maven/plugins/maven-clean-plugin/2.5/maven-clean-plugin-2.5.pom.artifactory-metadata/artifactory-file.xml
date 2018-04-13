@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-clean-plugin-2.5.pom</name>
+  <created>1512124547225</created>
+  <lastModified>1337784896000</lastModified>
+  <size>3919</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512124547238</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>f2d39462d73bd7873be20a6245d1d7fb</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>8571a1cd21bed4fe28656c3303526fa7d1e582ad</original>
+          <actual>8571a1cd21bed4fe28656c3303526fa7d1e582ad</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

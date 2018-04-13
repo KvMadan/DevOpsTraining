@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/ow2/ow2/1.3/ow2-1.3.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>ow2-1.3.pom</name>
+  <created>1511945657071</created>
+  <lastModified>1303229220000</lastModified>
+  <size>9509</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945657087</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>304ffc7a7cd24547235154ea93ef9ef2</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>f679d6639bfb209b0836a5e7cf09bfbcc1a41f06</original>
+          <actual>f679d6639bfb209b0836a5e7cf09bfbcc1a41f06</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

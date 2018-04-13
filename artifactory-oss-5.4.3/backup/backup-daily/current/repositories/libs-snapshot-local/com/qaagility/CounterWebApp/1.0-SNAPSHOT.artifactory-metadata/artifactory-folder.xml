@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>libs-snapshot-local</repoKey>
+    <path>com/qaagility/CounterWebApp/1.0-SNAPSHOT</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.0-SNAPSHOT</name>
+  <created>1511945905283</created>
+  <lastModified>1511945905283</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1511945905283</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

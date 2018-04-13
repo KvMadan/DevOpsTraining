@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>mockito-all-1.9.5.pom</name>
+  <created>1522050124145</created>
+  <lastModified>1350209341000</lastModified>
+  <size>1040</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1522050124299</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>8cde60b7d723d15aeb5e59aaf033351f</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>f0d23dcaf05021f1c569f7ca553b265cfb3f2f77</original>
+          <actual>f0d23dcaf05021f1c569f7ca553b265cfb3f2f77</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

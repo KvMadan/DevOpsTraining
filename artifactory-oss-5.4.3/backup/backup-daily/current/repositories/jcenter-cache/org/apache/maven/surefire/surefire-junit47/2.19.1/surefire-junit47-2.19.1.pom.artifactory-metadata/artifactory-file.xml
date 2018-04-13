@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/surefire/surefire-junit47/2.19.1/surefire-junit47-2.19.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>surefire-junit47-2.19.1.pom</name>
+  <created>1511945560919</created>
+  <lastModified>1451917014000</lastModified>
+  <size>6234</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945560931</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>8f65112161a769a957820ea4654f024a</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>106d0e5affe03d43007f29951b87e1a6ebeee71c</original>
+          <actual>106d0e5affe03d43007f29951b87e1a6ebeee71c</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

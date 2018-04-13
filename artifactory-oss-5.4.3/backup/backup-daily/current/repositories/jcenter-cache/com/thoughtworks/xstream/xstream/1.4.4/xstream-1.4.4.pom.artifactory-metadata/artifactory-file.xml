@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>xstream-1.4.4.pom</name>
+  <created>1512904722402</created>
+  <lastModified>1358609430000</lastModified>
+  <size>8585</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904722409</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>1488a44d3b09d18ad766227788adbb7c</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>e00eebf36780667926e3daf3d67d2a88422ffbef</original>
+          <actual>e00eebf36780667926e3daf3d67d2a88422ffbef</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

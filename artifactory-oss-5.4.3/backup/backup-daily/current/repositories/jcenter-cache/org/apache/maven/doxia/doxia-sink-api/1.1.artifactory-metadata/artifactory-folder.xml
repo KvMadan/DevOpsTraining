@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/doxia/doxia-sink-api/1.1</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>1.1</name>
+  <created>1512904700560</created>
+  <lastModified>1512904700560</lastModified>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904700560</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

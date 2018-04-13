@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>plexus-utils-1.1.pom</name>
+  <created>1511945736595</created>
+  <lastModified>1220183267000</lastModified>
+  <size>767</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1511945736600</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>6e902bab552ae52fef5875d27c4cf0a0</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>15492ecd00920daca9ec15f6acd695b626621e5b</original>
+          <actual>15492ecd00920daca9ec15f6acd695b626621e5b</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

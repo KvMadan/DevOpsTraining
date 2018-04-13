@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>jcenter-cache</repoKey>
+    <path>org/apache/maven/shared/maven-filtering/1.3/maven-filtering-1.3.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>maven-filtering-1.3.jar</name>
+  <created>1512904735948</created>
+  <lastModified>1413397260000</lastModified>
+  <size>51184</size>
+  <additionalInfo>
+    <createdBy>anonymous</createdBy>
+    <modifiedBy>anonymous</modifiedBy>
+    <lastUpdated>1512904735952</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <actual>70945f82a560019aa51de31ab1210deb</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>3e4f4c305d40c598763ed842f52faeb4dfb63c6c</original>
+          <actual>3e4f4c305d40c598763ed842f52faeb4dfb63c6c</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>
